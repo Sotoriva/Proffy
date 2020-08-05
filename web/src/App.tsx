@@ -1,5 +1,4 @@
 import React from 'react';
-import Landing from './pages/landing';
 import Routes from './routes';
 
 import './assets/styles/global.css';
